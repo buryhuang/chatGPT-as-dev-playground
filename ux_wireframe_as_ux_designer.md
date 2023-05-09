@@ -44,3 +44,6 @@ Make the Adjustment showing as percentage
 ```
 Change it to use row baed layout. User can add or remove some row of the parameters
 ```
+
+## End Result
+<img width="609" alt="image" src="https://github.com/buryhuang/chatGPT-as-dev-playground/assets/3003873/4c899c82-504e-468b-b1ba-6e8112fd5c14">
